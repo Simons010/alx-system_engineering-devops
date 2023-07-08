@@ -1,1 +1,1 @@
-Absolute path name script
+Current working directory
